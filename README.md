@@ -1,6 +1,9 @@
 
 # Projeto Breaking Bad
 
+![OIG](https://github.com/Igor-Arauj0/React_Indv/assets/141196147/d882d509-96c2-4dd9-9d5b-b9318c855f3f)
+
+
 Site sobre Breaking Bad
 
 O site é um portal detalhado sobre a série de TV "Breaking Bad". Focado em oferecer uma experiência completa e informativa, é dividido em seções específicas para proporcionar diferentes temas do universo da série.
