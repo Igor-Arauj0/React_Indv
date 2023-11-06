@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap"); /* font-family: 'Lato', sans-serif;---Título-- */
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap"); /* font-family: 'Abel', sans-serif;---Corpo--- */
+
+.navbar {
+  position: absolute;
+  width: 100%;
+  height: 60px;
+  top: 0;
+  left: 0;
+  background-color: #161616; /* Cor de fundo da barra */
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center; /* Alinha verticalmente */
+  font-family: "Lato", sans-serif;
+}
+
+.navbar-pages {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+  font-family: "Abel", sans-serif;
+}
+
+.navbar-pages li {
+  margin-right: 20px; /* Espaçamento entre os itens */
+}
+
+.itens {
+  color: green;
+}
+
+.itens:hover {
+  color: darkgreen;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+  filter: drop-shadow(0 0 5px rgba(51, 185, 230, 0.37));
+  transition: filter 0.3s;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 15px darkgreen);
+}
+
+a {
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+}
+
+.menu-toggle {
+  display: none;
+  cursor: pointer;
+}
+
+.dropdown-menu {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .menu-toggle:checked + .dropdown-menu {
+    display: block;
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+
+  .navbar-pages li {
+    display: none;
+  }
+}

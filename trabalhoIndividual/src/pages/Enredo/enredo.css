@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap"); /*font-family: 'Lato', sans-serif;---Título-- */
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Lato:wght@700&display=swap"); /*font-family: 'Abel', sans-serif;---Corpo---*/
+
+.container {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.video-container {
+  background-color: #131111;
+  padding: 30px;
+  max-width: 1500px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 5px rgba(15, 48, 5, 0.2);
+}
+
+.trailer {
+  width: 100%;
+}
+
+.sinopse {
+  margin-top: 20px;
+}
+
+.descricao {
+  font-size: 20px;
+  font-family: "Abel", sans-serif;
+}

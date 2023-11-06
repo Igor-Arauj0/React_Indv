@@ -1,0 +1,137 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap"); /*font-family: 'Lato', sans-serif;---Título-- */
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Lato:wght@700&display=swap"); /*font-family: 'Abel', sans-serif;---Corpo---*/
+
+.tituloP {
+  font-family: Lato, sans-serif;
+}
+
+.personagens-cards-container {
+  width: 90%;
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.cards-content {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 30px;
+  justify-content: center;
+  margin-left: 65px;
+}
+
+.card {
+  width: 250px;
+  height: 500px;
+  background-size: cover;
+  background-position: 50% 50%;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 20px 10px;
+  color: rgba(29, 73, 117, 0.747);
+  font-size: 20px;
+  font-family: "Lato", sans-serif;
+  font-weight: bolder;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.pagination-buttons {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 10px;
+}
+
+.pagination-buttons button {
+  margin-right: 10px;
+  height: 300px;
+}
+
+.banner-1 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Walter_White_S5B.png/220px-Walter_White_S5B.png);
+}
+
+.banner-2 {
+  background-image: url(https://i.pinimg.com/564x/82/ee/85/82ee85deda21c7feaa1e929a5d895dae.jpg);
+}
+
+.banner-3 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Skyler_White_S5B.png/220px-Skyler_White_S5B.png);
+}
+
+.banner-4 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Hank_Schrader_S5B.png/220px-Hank_Schrader_S5B.png);
+}
+
+.banner-5 {
+  background-image: url(https://rollingstone.uol.com.br/media/uploads/saul_goodman_reprod.jpg);
+}
+
+.banner-6 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/6/69/Gustavo_Fring_BCS_S3E10.png);
+}
+
+.banner-7 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/e/ea/Mike_Ehrmantraut_BCS_S3.png);
+}
+
+.banner-8 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/c/cb/Marie_Schrader_S5B.png);
+}
+
+.banner-9 {
+  background-image: url(https://static.wikia.nocookie.net/breakingbad/images/a/a7/Tuco_BCS.jpg);
+}
+
+.banner-10 {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/c/ce/Walter_White_Jr_S5B.png);
+}
+
+.banner-11 {
+  background-image: url(https://static.wikia.nocookie.net/breakingbad/images/7/78/Lydia_S5b.jpg);
+}
+
+.banner-12 {
+  background-image: url(https://static.wikia.nocookie.net/breakingbad/images/f/f5/Todd_S5b.jpg);
+}
+
+.banner-13 {
+  background-image: url(https://static.wikia.nocookie.net/breakingbad/images/c/ce/Jack5x13.png);
+}
+
+.banner-14 {
+  background-image: url(https://static.wikia.nocookie.net/breakingbad/images/b/bd/Cast_bb_800x600_jane-margolis.jpg);
+}
+
+.banner-15 {
+  background-image: url(https://static.wikia.nocookie.net/breakingbad/images/2/2d/Cast_bb_800x600_skinny-pete.jpg);
+}
+
+.banner-16 {
+  background-image: url(https://static.wikia.nocookie.net/breakingbad/images/5/5b/Cast_bb_800x600_badger.jpg);
+}
+
+.banner-17 {
+  background-image: url(https://static.wikia.nocookie.net/breakingbad/images/5/5c/Gale_2009.png);
+}
+
+.banner-18 {
+  background-image: url(https://static.wikia.nocookie.net/breakingbad/images/6/68/Andrea1.jpg);
+}
+
+.banner-19 {
+  background-image: url(https://static.wikia.nocookie.net/breakingbad/images/3/34/TioSalamanca.jpg);
+}
+
+.banner-20 {
+  background-image: url(https://static.wikia.nocookie.net/breakingbad/images/6/65/Gomie_2009.png);
+}

@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap"); /*font-family: 'Lato', sans-serif;---Título-- */
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Lato:wght@700&display=swap"); /*font-family: 'Abel', sans-serif;---Corpo---*/
+
+.tituloC {
+  font-family: "Lato", sans-serif;
+}
+
+.description {
+  font-family: "Abel", sans-serif;
+  font-size: 23px;
+}
+
+.description1 {
+  font-family: "Abel", sans-serif;
+  font-size: 23px;
+}
+
+.container {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile {
+  background-color: #130e0e;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgb(2, 61, 10);
+  margin-top: 20px;
+}
+
+.profile img {
+  width: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.description p {
+  font-size: 16px;
+}
+
+.links-icons a {
+  margin-right: 10px;
+}
+
+.github,
+.linkedin {
+  color: darkgreen;
+}
+
+.github:hover,
+.linkedin:hover {
+  color: rgb(1, 71, 1);
+  transition: 0.3s;
+}
