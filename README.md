@@ -1,7 +1,8 @@
 
 # Projeto Breaking Bad
 
-![OIG](https://github.com/Igor-Arauj0/React_Indv/assets/141196147/d882d509-96c2-4dd9-9d5b-b9318c855f3f)
+![OIG](https://github.com/Igor-Arauj0/React_Indv/assets/141196147/3775c8e2-e057-4072-840a-4e2481d1655b)
+
 
 
 Site sobre Breaking Bad
