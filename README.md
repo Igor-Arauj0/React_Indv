@@ -54,6 +54,8 @@ Este tipo de site visa reunir e apresentar informações de forma organizada con
  - [React](https://react.dev)
  - [VsCode](https://code.visualstudio.com)
  - [Vite](https://vitejs.dev)
+ - [ReactIcons]
+ - [ReactRouter-DOM]
 
 
 ## Autor
