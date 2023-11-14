@@ -62,32 +62,50 @@ Este tipo de site visa reunir e apresentar informações de forma organizada con
 
 ![Captura(CARDS + FOOTER)](https://github.com/Igor-Arauj0/React_Indv/assets/141196147/b5fdfe3e-38cf-4e8e-9a86-4db1a2316eee)
 
-<h2>Instalação e Execução</h2>
-    <ol>
-        <li>Clone o repositório para o seu ambiente local.</li>
-        <pre><code>https://github.com/Igor-Arauj0/React_Indv</code></pre>
-        <li>Navegue ao diretório do projeto.</li>
-        <pre><code>cd (seu-projeto)</code></pre>
-        <li>Instale as dependências do projeto.</li>
-        <pre><code>npm install react react-dom</code></pre>
-        <pre><code>npm install react-icons </code></pre>
-        <li>Inicie a aplicação.</li>
-        <pre><code>npm run dev</code></pre>
-    </ol>
-    <p>Agora, sua aplicação estará disponível em alguma rota da sua internet</p>
+## Instalação e Execução
 
+Siga as instruções abaixo para configurar e executar o projeto em seu ambiente local.
 
+### Pré-requisitos
+
+Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu sistema.
+
+### Passos
+
+1. Clone o repositório para o seu ambiente local.
+
+    ```bash
+    git clone https://github.com/Igor-Arauj0/React_Indv
+    ```
+
+2. Navegue até o diretório do projeto.
+
+    ```bash
+    cd React_Indv
+    ```
+
+3. Instale as dependências do projeto.
+
+    ```bash
+    npm install
+    ```
+
+4. Inicie a aplicação.
+
+    ```bash
+    npm run dev
+    ```
+
+Agora, a aplicação estará disponível em alguma rota da sua internet.
 
 ## Recursos utilizados
 
- - [React](https://react.dev)
- - [VsCode](https://code.visualstudio.com)
- - [Vite](https://vitejs.dev)
- - [ReactIcons]
- - [ReactRouter-DOM]
-
+- [React](https://react.dev)
+- [VsCode](https://code.visualstudio.com)
+- [Vite](https://vitejs.dev)
+- [ReactIcons]
+- [ReactRouter-DOM]
 
 ## Autor
 
 - [@Igor-Arauj0](https://www.github.com/Igor-Arauj0)
-
