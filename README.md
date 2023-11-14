@@ -48,6 +48,21 @@ Este tipo de site visa reunir e apresentar informações de forma organizada con
 - Na mesma página de personagens, um botão existente para alternar entre os cards
 - Página de criador com links para perfis do github/linkedin
 
+## Prints do Site
+
+![CapturaSite1](https://github.com/Igor-Arauj0/React_Indv/assets/141196147/ff2514bc-c32d-4395-a4e0-83854ab099a5)
+
+![CapturaSite2](https://github.com/Igor-Arauj0/React_Indv/assets/141196147/cc02cc57-0dad-4528-bd81-97ab0e183ba3)
+
+![CapturaSite3](https://github.com/Igor-Arauj0/React_Indv/assets/141196147/83465294-5565-49fb-a660-757c0cea5fd4)
+
+![CapturaSite4](https://github.com/Igor-Arauj0/React_Indv/assets/141196147/d728ff37-db23-47c5-8186-2239ddb521f6)
+
+# Print das CARDS + Footer
+
+![Captura(CARDS + FOOTER)](https://github.com/Igor-Arauj0/React_Indv/assets/141196147/b5fdfe3e-38cf-4e8e-9a86-4db1a2316eee)
+
+
 
 ## Recursos utilizados
 
