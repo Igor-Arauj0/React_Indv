@@ -62,6 +62,20 @@ Este tipo de site visa reunir e apresentar informações de forma organizada con
 
 ![Captura(CARDS + FOOTER)](https://github.com/Igor-Arauj0/React_Indv/assets/141196147/b5fdfe3e-38cf-4e8e-9a86-4db1a2316eee)
 
+<h2>Instalação e Execução</h2>
+    <ol>
+        <li>Clone o repositório para o seu ambiente local.</li>
+        <pre><code>https://github.com/Igor-Arauj0/React_Indv</code></pre>
+        <li>Navegue ao diretório do projeto.</li>
+        <pre><code>cd (seu-projeto)</code></pre>
+        <li>Instale as dependências do projeto.</li>
+        <pre><code>npm install</code></pre>
+        <li>Inicie a aplicação.</li>
+        <pre><code>npm run backend</code></pre>
+        <pre><code>npm run dev</code></pre>
+    </ol>
+    <p>Agora, sua aplicação estará disponível em alguma rota da sua internet</p>
+
 
 
 ## Recursos utilizados
