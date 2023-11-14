@@ -58,7 +58,7 @@ Este tipo de site visa reunir e apresentar informações de forma organizada con
 
 ![CapturaSite4](https://github.com/Igor-Arauj0/React_Indv/assets/141196147/d728ff37-db23-47c5-8186-2239ddb521f6)
 
-# Print das CARDS + Footer
+### Print das CARDS + Footer
 
 ![Captura(CARDS + FOOTER)](https://github.com/Igor-Arauj0/React_Indv/assets/141196147/b5fdfe3e-38cf-4e8e-9a86-4db1a2316eee)
 
