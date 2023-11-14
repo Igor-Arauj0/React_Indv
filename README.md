@@ -69,9 +69,9 @@ Este tipo de site visa reunir e apresentar informações de forma organizada con
         <li>Navegue ao diretório do projeto.</li>
         <pre><code>cd (seu-projeto)</code></pre>
         <li>Instale as dependências do projeto.</li>
-        <pre><code>npm install</code></pre>
+        <pre><code>npm install react react-dom</code></pre>
+        <pre><code>npm install react-icons </code></pre>
         <li>Inicie a aplicação.</li>
-        <pre><code>npm run backend</code></pre>
         <pre><code>npm run dev</code></pre>
     </ol>
     <p>Agora, sua aplicação estará disponível em alguma rota da sua internet</p>
